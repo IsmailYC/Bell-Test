@@ -1,0 +1,10 @@
+Subject ID 		test
+Wait Time(s) 		3
+Main Duration(m) 		5
+Correction Duration(m) 		2
+Marker Index 	 X 	 Y
+1 	 0.7540323	0.8085366
+2 	 0.2459677	0.8085366
+3 	 0.7540323	0.1914634
+4 	 0.2459677	0.1914634
+5 	 0.5	0.5
