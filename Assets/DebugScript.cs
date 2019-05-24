@@ -9,6 +9,7 @@ public class DebugScript : MonoBehaviour
     {
         yield return new WaitUntil(() => GameManager.instance != null);
         Debug.Log(GameManager.instance.Position2PupilLab(transform.position));
+        Debug.Log(Camera.main.WorldToScreenPoint(transform.position));
     }
 
     // Update is called once per frame
